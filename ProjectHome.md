@@ -1,0 +1,1 @@
+Sample project with a large collection of color collections to create smooth gradient drawables.
